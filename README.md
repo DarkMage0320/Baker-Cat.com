@@ -1,4 +1,4 @@
-# baker.cat
-What is she baking?
+# baker-cat.com
+ths idea has already been done a million times
 
-[![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](http://forthebadge.com)
+
